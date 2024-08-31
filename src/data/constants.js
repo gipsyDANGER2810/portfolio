@@ -16,7 +16,7 @@ export const Bio = {
     "Versatile Software & Full Stack Developer | Recent Computer Science Master's Grad with Distinction from Manchester Metropolitan University",
   github: "https://github.com/gipsyDANGER2810",
   resume:
-    "https://drive.google.com/file/d/1pnHCyDVWQjOEF5Uf1_-3c-8se8IVe1Ua/view?usp=sharing",
+    "https://drive.google.com/file/d/1_GvH9G91VcC65-Kb1EYU_FqaGpkKnNe5/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/swapnil-galhate-3aa008167/",
   
   insta: "https://www.instagram.com/sunnny_cool/",
