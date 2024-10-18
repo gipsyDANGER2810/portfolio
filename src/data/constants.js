@@ -176,7 +176,7 @@ export const projects = [
     title: "ChatGPTClone",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Our Instagram clone, crafted with the powerful MERN (MongoDB, Express.js, React.js, Node.js) stack, offers users a familiar and seamless social media experience. With intuitive user interfaces, real-time updates, and essential features like image sharing, liking, commenting, and user profiles, our platform aims to replicate the beloved Instagram experience while providing flexibility for further customization and scalability.",
+      " Frontend: Developed using React.js, incorporating advanced React concepts such as Hooks (useState, useEffect, useContext), Higher-Order Components (HOCs), and Redux for state management.Backend: Built with Node.js, utilizing Express.js for server-side logic, RESTful API design, and JWT for authentication.Database: Implemented MongoDB for efficient data storage and retrieval, leveraging Mongoose for schema validation and querying.Additional Technologies: Integrated third-party libraries and tools including Axios for API requests, Redux Thunk for asynchronous actions, and React Router for navigation.",
     image:
       cc,
     tags: [
